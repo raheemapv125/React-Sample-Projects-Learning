@@ -1,4 +1,3 @@
-```markdown
 # React Essentials
 
 This project is an SPA web application aimed at understanding building UI with components, using, sharing, outputting data, handling user events, and usage of useState.
@@ -24,4 +23,3 @@ To get started with this project, follow these steps:
 3. Explore the application by opening `index.html` in your browser.
 
 Feel free to experiment with React essentials and enhance your understanding!
-```

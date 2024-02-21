@@ -1,4 +1,3 @@
-```markdown
 # Quiz
 
 This project is a quiz web application in React diving deep into useEffect, combining effects with other React concepts, and usage of the key prop.
@@ -25,4 +24,3 @@ To get started with this project, follow these steps:
 3. Take the quiz by opening `index.html` in your browser.
 
 Feel free to test your knowledge and learn with this quiz application!
-```
